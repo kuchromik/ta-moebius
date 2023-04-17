@@ -21,7 +21,7 @@ mit dem 1. Staatsexamen an der Universität Halle- Wittenberg
 <br />
 - 2002 Erlangung des akademischen Grades Dr. med. vet.  
 <br />
-- Dez. 2002 Eröffnung der eigenen Kleintierpraxis  
+- Dezember 2002 Eröffnung der eigenen Kleintierpraxis  
 <br />
 
 
