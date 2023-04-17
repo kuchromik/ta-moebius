@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <div class="container">
+    <h1>Mit Vorlage term.html</h1>
+    <br>
+    <h3>All posts for {{ .Type | singularize }} "{{ .Title }}"</h3>
+    <br>
+    <ul class="tags">
+      {{ range .Data.Pages }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          <br>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end}}

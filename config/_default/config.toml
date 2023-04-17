@@ -1,0 +1,10 @@
+baseURL = 'https://www.kleintierpraxis-dr-moebius.de/'
+languageCode = 'de-de'
+title = 'Kleintierpraxis Dr. Heike Möbius'
+
+assetdir = 'static'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+enableGitInfo = true

@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="container">
+    {{ with .Params.title }}<h1>{{ . }}</h1>{{ end }}
+    <br>
+    {{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}
+    <br>
+    <br>
+    {{ .Content }}
+    <br>
+    {{ $update := .Page.Date }}
+    <small class="text-muted">Letzte Aktualisierung {{ $update.Format "02.01.2006" }}</small>
+
+</div>
+
+{{ end }}

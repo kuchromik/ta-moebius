@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="container">
+<h1 class="titles">{{.Page.Params.title}}</h1>
+
+{{range where $.Site.RegularPages.ByWeight "Section" .Page.Params.title }}
+        <br>
+        {{ if (resources.GetMatch .Params.featured_image) }}
+            <img src="{{ (resources.GetMatch .Params.featured_image).RelPermalink }}" />
+        {{ end }}
+        <br>
+        <br>
+        {{ .Content }}
+          <br>
+          <ul class="tags">
+            {{ range .Params.tags }}
+              <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+            {{ end }}
+          </ul> 
+          <br>
+{{ end }}
+
+{{ $update := .Page.Date }}
+    <small class="text-muted">Letzte Aktualisierung {{ $update.Format "02.01.2006" }}</small>
+    
+</div>
+{{ end }}
+
