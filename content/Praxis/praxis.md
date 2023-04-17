@@ -32,7 +32,7 @@ Es stehen genügend Parkplätze direkt vor der Praxis zur Verfügung.
 
 Sie erreichen uns über die B169 Abfahrt Hof, durch Hof Richtung Salbitz oder Abfahrt Salbitz Richtung Oschatz und
 dann am Ortsausgang rechts Richtung Hof oder von Oschatz über die B6 Abfahrt Reppen durch Raitzen nach Hof und hier Richtung Salbitz.
-Mehr dazu unter https://kuchromik.github.io/ta-moebius/anfahrt
+Mehr dazu unter https://ta-moebius.onrender.com/anfahrt
 
 Es erwarten Sie:
 
