@@ -1,5 +1,5 @@
 ---
-title: "Herzlich willkommen"
+title: "Wer wir sind und was wir tun"
 date: 2023-04-15
 draft: false
 featured_image: Aussen1-w.jpg

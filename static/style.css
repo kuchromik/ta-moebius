@@ -10,7 +10,6 @@ body {
   background-color: #eee;
 }
 
-/*footer*/
 html {
   position: relative;
   min-height: 100%;
@@ -83,6 +82,7 @@ a, p, span {
 h1 {
   font-family: 'Open Sans', sans-serif;
   font-size: 2rem;
+  color: #387C44;
 }
 h4 {
   font-family: 'Open Sans', sans-serif;
@@ -100,7 +100,7 @@ h5 {
 }
 
 .titles {
-  color: #666;
+  color: #387C44;
 }
 
 /* nav */
@@ -124,7 +124,7 @@ nav {
   font-family: 'Berkshire Swash', cursive;
   padding-left: 1rem;
   vertical-align: sub;
-	color: #000;
+	color: #387C44;
 }
 .wrapper{
   position: fixed;
@@ -220,6 +220,17 @@ input[type="checkbox"]{
 .content p{
   font-size: 35px;
   font-weight: 600;
+}
+
+/*footer*/
+
+#footer-image {
+  max-height: 60px;
+}
+
+.footer-img {
+  display: flex;
+  justify-content: center;
 }
 
 /* Tagliste */

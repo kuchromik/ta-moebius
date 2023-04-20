@@ -13,7 +13,7 @@ featured_image: ""
 Damit dies nicht nur für Menschen sondern auch für unsere kleinen vierbeinigen oder geflügelten Hausgenossen gilt, ist unser Praxisteam immer bemüht den Hunden und Katzen, den kleinen Heimtieren wie Meerschwein, Kaninchen und Co., den Ziervögeln, den Reptilien und Schlangen bei ihren gesundheitlichen Problemen zu helfen oder ihnen vorzubeugen.  
 <br />
 
-Wir untersuchen und behandeln alle Klein- und Heimtiere, Reptilien und Vögel. Keine Pferde, Fische, Lurche oder Giftschlangen.  
+Wir untersuchen und behandeln alle Klein- und Heimtiere und Vögel. Keine Pferde, Fische, Lurche oder Giftschlangen.  
 
 <br />
 
@@ -27,17 +27,17 @@ Wir untersuchen und behandeln alle Klein- und Heimtiere, Reptilien und Vögel. K
     Mikroskopische Untersuchung von Haut, Blut, Urin oder Kot
     EKG
     Röntgen
-    Ultraschall-Zahnsteinentfernung und Zahnversiegelung
-    Operationen (auch elektrochirurgisch)
+    Ultraschall-Zahnsteinentfernung
+    Weichteiloperationen 
     HD/ED und DNA-Untersuchungen
     Zuchtuntersuchungen zur Patellaluxation
     Elektronische Tierkennzeichnung
     Zusammenstellung Reiseapotheke
-    Verhaltenstherapie
     Ernährungsberatung
     Beratung über artgerechte Haltung
-    Hausbesuche
+    Hausbesuche bei bestimmten Indikationen
     Stationäre Aufnahme
+    Untersuchungen zum Zyklusstand und Trächtigkeit
 
 <br />
 Die Berechnung unserer Leistungen erfolgt ausschließlich nach der Tierärztlichen Gebührenordnung (GOT).

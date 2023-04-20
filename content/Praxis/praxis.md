@@ -12,28 +12,25 @@ Montag 9-12 Uhr und 15-20 Uhr
 <br />
 Dienstag 	9-12 Uhr und 15-19 Uhr  
 <br />
-Mittwoch * 18-20 Uhr
+Mittwoch Termine nur nach Vereinbarung
 <br /> 
 Donnerstag 	9-12 Uhr und 15-19 Uhr
 <br />
 Freitag 	9-12 Uhr und 15-19 Uhr
 <br />
-Samstag * 	9-12 Uhr und nach Vereinbarung!
+Samstag Termine nur nach Vereinbarung
 <br />
   
 <br />
-<p style="color: red">* Mittwoch und Samstag nur Terminsprechstunde, bitte vorher anrufen!</p>
+<p style="color: red">Außerhalb der Sprechstunde sind wir nur mobil erreichbar: 0172/9485790</p>
 <br />
 
 ### Unserer Praxis:
 <br />
 Unsere Praxis liegt im ländlichen Bereich und ist räumlich sehr großzügig gestaltet.
-Es stehen genügend Parkplätze direkt vor der Praxis zur Verfügung.
+Es stehen Parkplätze direkt vor der Praxis zur Verfügung.
 
-Sie erreichen uns über die B169 Abfahrt Hof, durch Hof Richtung Salbitz oder Abfahrt Salbitz Richtung Oschatz und
-dann am Ortsausgang rechts Richtung Hof oder von Oschatz über die B6 Abfahrt Reppen durch Raitzen nach Hof und hier Richtung Salbitz.
-Mehr dazu unter https://ta-moebius.onrender.com/anfahrt
-
+<br />
 Es erwarten Sie:
 
 * ein großzügiges gemütliches Wartezimmer
@@ -48,6 +45,7 @@ Es erwarten Sie:
 <br />
 
 - Praxiseröffnung am 30.11.2002 
-- Erfolgreiche Ausbildung zweier tiermedizinischen Fachangestellten 2003 - 2006 und 2005 - 2007.
-- Einstellung einer Tiermedizinischen Fachangestellten ab 01.03.2007 durch Übernahme der Auszubildenden.
-- Einstellung einer 3. Auszubildenden ab 01.08.2008.
+- Erfolgreiche Ausbildung zweier tiermedizinischen Fachangestellten
+- Durchführung von Schülerpraktika und sozialer Tage
+- Eröffnung und Vergrößerung einer Katzenpension
+- Einbindung einer Fachtierärztin für Kleintierchirurgie für kompliziertere ambulante OP`s
