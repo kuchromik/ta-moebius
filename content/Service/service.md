@@ -9,7 +9,7 @@ featured_image: ""
 **Impferinnerung:** wir erinnern unsere Hunde-, Katzen- und bei Wunsch auch Kaninchenbesitzer an fällige Impftermine  
 <br />
 
-**Überweisungen:** sind bei Ihrem Tier Spezialuntersuchungen oder -operationen erforderlich, werden Sie eine ausführliche Überweisung  
+**Überweisungen:** sind bei ihrem Tier Spezialuntersuchungen oder -operationen erforderlich, werden Sie eine ausführliche Überweisung  
 mit allen erforderlichen Unterlagen erhalten, außerdem übernehmen wir für Sie die Kontaktaufnahme und Terminabsprache  
 <br />
 
