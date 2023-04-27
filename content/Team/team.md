@@ -22,16 +22,14 @@ featured_image: ""
 <br />
 
 
-### Julia Kirsten: Veterinärmedizinische Fachangestellte
 
-<br />
+
 
 ### Nicole Mickoleit: Tiermedizinische Fachangestellte
 
+
 <br />
-
-### Vanessa Zimmermann: Auszubildende 
-
+<br />
 <br />
 
 ### Marit Albrecht: Auszubildende
