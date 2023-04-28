@@ -58,6 +58,35 @@ body {
   }
 }
 
+.container-nav {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #eee;
+}
+@media (min-width: 768px) {
+  .container-nav {
+    width: 750px;
+  }
+  #wappentext {
+    font-size: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .container-nav {
+    width: 970px;
+  }
+  #wappentext {
+    font-size: 2.5rem;
+  }
+}
+@media (min-width: 1200px) {
+  .container-nav {
+    width: 1170px;
+  }
+}
+
 img {
   max-width: 100%;
 }
