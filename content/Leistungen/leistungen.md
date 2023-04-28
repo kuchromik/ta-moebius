@@ -20,25 +20,42 @@ Wir untersuchen und behandeln alle Klein- und Heimtiere und Vögel. Keine Pferde
 ### Unsere Leistungen:  
 <br />
 
+Impfungen  
 
-    Impfungen
-    Untersuchungen und Behandlungen
-    Urin- und Blutsofortuntersuchungen
-    Mikroskopische Untersuchung von Haut, Blut, Urin oder Kot
-    EKG
-    Röntgen
-    Ultraschall-Zahnsteinentfernung
-    Weichteiloperationen 
-    HD/ED und DNA-Untersuchungen
-    Zuchtuntersuchungen zur Patellaluxation
-    Elektronische Tierkennzeichnung
-    Zusammenstellung Reiseapotheke
-    Ernährungsberatung
-    Beratung über artgerechte Haltung
-    Hausbesuche bei bestimmten Indikationen
-    Stationäre Aufnahme
-    Untersuchungen zum Zyklusstand und Trächtigkeit
+Untersuchungen und Behandlungen  
 
+Urin- und Blutsofortuntersuchungen  
+
+Mikroskopische Untersuchung von Haut, Blut, Urin oder Kot  
+
+EKG  
+
+Röntgen  
+
+Ultraschall-Zahnsteinentfernung  
+
+Weichteiloperationen  
+
+HD/ED und DNA-Untersuchungen  
+
+Zuchtuntersuchungen zur Patellaluxation  
+
+Elektronische Tierkennzeichnung  
+
+Zusammenstellung Reiseapotheke  
+
+Ernährungsberatung  
+
+Beratung über artgerechte Haltung  
+
+Hausbesuche bei bestimmten Indikationen  
+
+Stationäre Aufnahme  
+
+Untersuchungen zum Zyklusstand und Trächtigkeit  
+
+
+<br />
 <br />
 Die Berechnung unserer Leistungen erfolgt ausschließlich nach der Tierärztlichen Gebührenordnung (GOT).
 Wir bitten in der Regel um sofortige Barzahlung oder Zahlung per EC-Karte.
