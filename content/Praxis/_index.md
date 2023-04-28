@@ -1,5 +1,5 @@
 ---
-title: "Notdienst"
+title: "Praxis"
 date: 2023-04-15
 draft: false
 featured_image: ""
