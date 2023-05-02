@@ -62,7 +62,6 @@ body {
 
 .container-nav {
   display: flex;
-  justify-content: center;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -72,6 +71,7 @@ body {
 @media (min-width: 768px) {
   .container-nav {
     width: 750px;
+    justify-content: center;
   }
   #wappentext {
     font-size: 2rem;
@@ -114,9 +114,16 @@ a, p, span {
 }
 h1 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 2rem;
-  color: #387C44;
+  font-size: 1.5rem;
+  color: #387C44; 
 }
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
+
 h4 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
@@ -155,10 +162,23 @@ nav {
 }
 #wappentext {
   font-family: 'Berkshire Swash', cursive;
+  font-size: 1.3rem;
   padding-left: 1rem;
   vertical-align: sub;
 	color: #387C44;
 }
+
+@media (min-width: 768px) {
+  #wappentext {
+    font-size: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  #wappentext {
+    font-size: 2.5rem;
+  }
+}
+
 .wrapper{
   position: fixed;
   top: 0;
