@@ -3,8 +3,12 @@ title: "Service"
 date: 2023-04-15
 draft: false
 featured_image: ""
+menu:
+  main:
+    weight: 45
 
 ---
+
 
 **Impferinnerung:** wir erinnern unsere Hunde-, Katzen- und bei Wunsch auch Kaninchenbesitzer an fällige Impftermine  
 <br />
