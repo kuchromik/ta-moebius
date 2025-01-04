@@ -275,6 +275,11 @@ input[type="checkbox"]{
   font-weight: 600;
 }
 
+
+.is-active {
+  text-decoration: underline;
+}
+
 /*footer*/
 
 #footer-image {
