@@ -124,6 +124,12 @@ h1 {
   }
 }
 
+@media (max-width: 576px) {
+  span {
+    font-size: .7rem;
+  }
+}
+
 h4 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
