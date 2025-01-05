@@ -2,25 +2,10 @@
 <div class="container">
     {{ with .Params.title }}<h1>{{ . }}</h1>{{ end }}
     <br>
-    {{ if (resources.GetMatch .Params.featured_image) }}
-        <img src="{{ (resources.GetMatch .Params.featured_image).RelPermalink }}" />
-    {{ end }}
-    <br>
-    <br>
     {{ .Content }}
     <br>
-    <ul id="tags">
-        {{ range .Params.tags }}
-          <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
-        {{ end }}
-        <br>
-      </ul>
-      
-
-    <br>
-
     {{ $update := .Page.Date }}
     <small class="text-muted">Letzte Aktualisierung {{ $update.Format "02.01.2006" }}</small>
 
-    </div>
+  </div>
 {{ end }}
