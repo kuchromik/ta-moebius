@@ -1,0 +1,45 @@
+media:
+  input: static/
+  output: /
+
+content:
+  - name: Seiten
+    label: Seiten
+    type: collection
+    path: content
+
+    include:
+      - "*.md"
+
+    fields:
+      - name: title
+        label: Titel
+        type: string
+
+      - name: date
+        label: Datum
+        type: date
+
+      - name: draft
+        label: Entwurf
+        type: boolean
+
+      - name: featured_image
+        label: Titelbild
+        type: image
+
+      - name: menu
+        label: Menü
+        type: object
+        fields:
+          - name: main
+            label: Hauptmenü
+            type: object
+            fields:
+              - name: weight
+                label: Reihenfolge
+                type: number
+
+      - name: body
+        label: Inhalt
+        type: rich-text
