@@ -22,9 +22,5 @@ menu:
 
 ### Nicole Mickoleit: Tiermedizinische Fachangestellte
 
-![Jünna](/avatar.webp "Jünna")
-
 ### Marit Albrecht: Auszubildende
-
-![Kai](/kai.jpg "Hoschte")
 
