@@ -8,9 +8,6 @@ content:
     type: collection
     path: content
 
-    include:
-      - "*.md"
-
     fields:
       - name: title
         label: Titel
@@ -23,10 +20,6 @@ content:
       - name: draft
         label: Entwurf
         type: boolean
-
-      - name: featured_image
-        label: Titelbild
-        type: image
 
       - name: menu
         label: Menü
